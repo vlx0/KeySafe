@@ -1,0 +1,2 @@
+# KeySafe — Python 3.10+ (Windows), tkinter
+cryptography>=42
