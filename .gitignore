@@ -5,5 +5,5 @@ venv/
 .DS_Store
 Thumbs.db
 _trash/
-_*.py
-_*.png
+/_*.py
+/_*.png
